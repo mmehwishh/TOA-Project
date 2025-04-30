@@ -1,23 +1,56 @@
-🔧 Dual Project: Unary Multiplication (Software) & Flying Bird Automata (Hardware)
+# 🔧 Dual Project: Unary Multiplication (Software) & Flying Bird Automata (Hardware)
 
-1️⃣ Unary Multiplication - Turing Machine Simulation
-A Python-based GUI project that simulates multiplication using a Turing machine logic on unary numbers.
-Input: Two integers
-Process: Converts to unary (e.g., 3 × 2 → 111*11) and runs through a Turing machine
-Output: Product in both unary and decimal
-Tech Used: Python 3, Tkinter
-Features: Step-by-step execution, tape visualization, and reset functionality.
+## 1️⃣ Unary Multiplication - Turing Machine Simulation (Software)
+
+A **Python-based GUI project** that simulates multiplication using **Turing machine logic** on unary numbers.
+
+### Input
+- Two integers entered by the user.
+
+###  Process
+- Converts integers to **unary form** (e.g., 3 × 2 → `111*11`).
+- Simulates multiplication using **Turing machine** steps.
+- Displays each **intermediate tape** during execution.
+
+### Output
+- Product displayed in both **unary** and **decimal** form.
+
+### Technologies Used
+- Python 3
+- Tkinter (GUI Library)
+
+### Features
+- **Start**: Begin the Turing machine simulation.
+- **Forward**: Step forward through intermediate tape states (steps).
+- **Backward**: Step backward through previous tape states (steps).
+- **Final Tape**: Jump directly to the final tape showing the completed multiplication.
+- **Reset**: Clear everything and start a new simulation.
 
 
-2️⃣ Flying Bird Paper Automata (Hardware Video)
-A mechanical paper-based automaton that simulates the flapping motion of a bird.
-Mechanism: Uses gears and crankshaft to produce wing motion
-Materials: Paper, chopstick, cardboard
-Purpose: Educational demo of motion and design using everyday materials
-📽️ The video showcases:
-Realistic flapping motion
-Inner mechanical build
+## 2️⃣ Flying Bird Paper Automata (Hardware)
 
-🧑‍💻 Author
-Designed and implemented by Arwa Abbas, Mehwish Zehra, Hamna Khalid  
-For academic, educational, and demonstration purposes.
+A **mechanical paper-based automaton** that simulates the **flapping motion** of a bird.
+
+###  Mechanism
+- Uses **gears** and a **crankshaft** to produce wing flapping motion.
+
+### Materials Used
+- Paper
+- Chopstick
+- Cardboard
+
+### Purpose
+- Educational demonstration of **mechanical motion** and **design principles** using simple, everyday materials.
+
+###  Video Showcase
+- **Realistic flapping motion** of the bird.
+- **Inner mechanical build** and working mechanism shown.
+- 
+
+## 🧑‍💻 Authors
+Designed and implemented by:
+- **Arwa Abbas**  
+- **Mehwish Zehra**  
+- **Hamna Khalid**
+- 
+> For academic, educational, and demonstration purposes.
