@@ -1,4 +1,5 @@
 🔧 Dual Project: Unary Multiplication (Software) & Flying Bird Automata (Hardware)
+
 1️⃣ Unary Multiplication - Turing Machine Simulation
 A Python-based GUI project that simulates multiplication using a Turing machine logic on unary numbers.
 Input: Two integers
